@@ -1,4 +1,4 @@
 # IntotoProg_Python
 
 Intro to Programing - Python
-Assisgnment 05
+Assignment 05
