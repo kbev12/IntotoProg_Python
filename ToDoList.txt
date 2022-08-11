@@ -1,0 +1,4 @@
+Laundry,1
+Mop,2
+Homework,3
+Mow,5
